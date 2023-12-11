@@ -50,6 +50,9 @@ let str2 = " parul"
 let str3 = str1 + str2
 // console.log(str3);
 
+
+// numeric string used + gives string types
+
 // console.log("1" + 2);         -> 12
 // console.log(1 + "2");         -> 12
 // console.log("1" + 2 + 2);     -> 122
