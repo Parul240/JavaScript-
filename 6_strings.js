@@ -26,9 +26,9 @@ const newStringOne = "   parul    "
 console.log(newStringOne);
 console.log(newStringOne.trim());
 
-const url = "https://parul.com/parul%20sharma"
+const url = "https://github.com/Parul240"
 
-console.log(url.replace('%20', '-'))
+//console.log(url.replace('20%', '-'))
 
 console.log(url.includes('sundar'))
 
