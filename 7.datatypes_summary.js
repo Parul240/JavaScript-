@@ -17,7 +17,11 @@ const anotherId = Symbol('123')
 
 console.log(id === anotherId);
 
-// const bigNumber = 3456543576654356754n
+const bigNumber = 3456543576654356754n
+//console.log(bigNumber);
+
+// find datatype
+console.log(typeof(bigNumber));
 
 
 
@@ -26,6 +30,8 @@ console.log(id === anotherId);
 // Array, Objects, Functions
 
 const heros = ["shaktiman", "doraemon", "doga"];
+console.log(heros);
+
 let myObj = {
     name: "parul",
     age: 23,
