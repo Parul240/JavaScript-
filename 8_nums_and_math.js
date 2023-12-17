@@ -16,13 +16,16 @@ const otherNumber = 123.8966
 const hundreds = 1000000
 // console.log(hundreds.toLocaleString('en-IN'));   // Returns a number into a string, using locale settings
 
+
+
+
 // +++++++++++++ Maths +++++++++++++++++++++++++++++
 
 // console.log(Math);
 // console.log(Math.abs(-4));      // It returns the absolute value of the given number
 // console.log(Math.round(4.7));   // It returns closest integer value of the given number
 // console.log(Math.round(4.3))
- console.log(Math.ceil(4.2));    // It returns a smallest integer value, greater than or equal to the given number
+// console.log(Math.ceil(4.2));    // It returns a smallest integer value, greater than or equal to the given number
 // console.log(Math.floor(4.9));   // It returns largest integer value, lower than or equal to the given number
 // console.log(Math.min(4, 3, 6, 8));
 // console.log(Math.max(4, 3, 6, 8));
