@@ -12,7 +12,7 @@ arr[0] = 5666;
 console.log(arr.toString());
 console.log(arr.join(" and "));
 
-// splice
+// splice method
 let numbers = [1, 2, 3, 4, 5];
 numbers.splice(1, 2);
 // numbers.splice(1, 3);
