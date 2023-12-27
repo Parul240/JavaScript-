@@ -1,4 +1,4 @@
-// Dates
+// Date
 
 let myDate = new Date()
 // console.log(myDate.toString());          // automatically converted to a string
