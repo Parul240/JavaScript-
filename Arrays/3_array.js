@@ -18,3 +18,4 @@ numbers.splice(1, 2);
 // numbers.splice(1, 3);
 // numbers.splice(1, 3, 222, 333);
 //console.log(numbers);
+
