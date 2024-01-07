@@ -4,7 +4,7 @@ Dates, Maths, Regular expressions, Arrays, Functions, Objects are always objects
 Booleans, Numbers, Strings can be objects (if defined with the new keyword)
 */
 
-// singleton
+// singleton obj
 // Object.create
 
 // object literals
