@@ -7,7 +7,7 @@ Booleans, Numbers, Strings can be objects (if defined with the new keyword)
 // singleton obj
 // Object.create
 
-// object literals
+// object literals  
 
 const JsUser = {}
 const mySym = Symbol("key1");
